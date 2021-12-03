@@ -1,3 +1,11 @@
 root - ERROR - Only integers allowed!
-root - ERROR - Only integers allowed!
 root - INFO - Input types are correct!
+root - ERROR - One or both input types are not float
+root - ERROR - Denominator cannot be zero
+root - INFO - 4/2
+root - INFO - -3/2
+root - ERROR - One or both input types are not float
+root - INFO - 1/2
+root - ERROR - Text argument must be a string
+root - INFO - This is the best string
+root - INFO - one
